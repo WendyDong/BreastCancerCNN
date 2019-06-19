@@ -14,7 +14,7 @@ Compact CNNs"
 
 ###  pretrained models
 
- You can get the pretrained models here.[model](https://drive.google.com/file/d/14fjGKqL8CfJlrVdTdsal5fy3v5aV4CvI/view?usp=sharing) ， [model-patch](https://drive.google.com/file/d/1zPzQTLSIGvBNwzUK0lO4xAIagnNxV-mM/view?usp=sharing).
+ You can get the pretrained models here. [model](https://drive.google.com/file/d/14fjGKqL8CfJlrVdTdsal5fy3v5aV4CvI/view?usp=sharing)， [model-patch](https://drive.google.com/file/d/1zPzQTLSIGvBNwzUK0lO4xAIagnNxV-mM/view?usp=sharing).
 
 ###  vote.ipynb
 
