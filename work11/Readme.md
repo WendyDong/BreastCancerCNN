@@ -7,7 +7,7 @@
  Of course, this may also be caused by the data set we selected which is too small. We put the code here and everyone can check it out.
  
 ### txt
-the pictures we picked from BreakHis-400X dataset to train the network.
+The pictures we picked from BreakHis-400X dataset to train the network.
 
 ### preprocess.py
 The script for image preprocessing.
