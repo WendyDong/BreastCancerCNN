@@ -3,8 +3,7 @@ Our experiment was carried out with caffe.
 
 ###  network profile
 
- deploy_SE_bn4.prototxt is the network profile of hybrid model in our paper "Breast Cancer Histopathology Image Classification through Assembling Multiple
-Compact CNNs"
+ deploy_SE_bn4.prototxt is the network profile of hybrid model in our paper "Breast Cancer Histopathology Image Classification through Assembling Multiple Compact CNNs"
 
  deploy_64.prototxt and deploy_32.prototxt is the network profile of the method in "Breast Cancer Histopathological Image Classification using Convolutional Neural Networks"
 
@@ -21,3 +20,5 @@ Compact CNNs"
  In this file you can extract the result of the global and patch images. After that, you can compute various indicators in the following vote.ipynb content.
 
 
+### addition: work11
+ We selected a small portion of the pictures on the BreakHis-400X dataset. We used them to reproduce the article "Breast Cancer Histopathology Image Classification through Assembling Multiple Compact CNNs". However, in this process, we faced some problems, the network can not fit the training set very well, so our accuracy of the dataset is very low, and can not achieve the effect in the article. Of course, this may also be caused by the data set we selected which is too small. We put the code here and everyone can check it out.
