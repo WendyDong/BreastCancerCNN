@@ -1,0 +1,17 @@
+net: "train_SE_duibi.prototxt"
+test_iter: 400
+test_interval: 400
+test_initialization: true
+display: 400
+average_loss: 20
+base_lr: 0.001
+lr_policy: "multistep"
+stepvalue: 4000
+stepvalue: 16000
+gamma: 0.5
+max_iter: 40000
+momentum: 0.9
+weight_decay: 0.0009
+snapshot: 400
+snapshot_prefix: "/home/devin/Desktop/caffe/models/BreakHis_two_duibi/random_32_32/googlenet"
+solver_mode: GPU
