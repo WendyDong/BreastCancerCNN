@@ -50,3 +50,4 @@ Results: "Breast Cancer Histopathology Image Classification through Assembling M
 |SW 64X64|	0.58/70.2	|0.58/70.2|	0.53/70.2|	0.48/70.2|	0.45/70.2|
 |Max Fusion|	63.8	|63.8|	63.8|	63.8|	63.8|
  
+The article method results is very weird so we put the code here and everyone can check it out.
