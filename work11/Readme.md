@@ -7,21 +7,33 @@
  Of course, this may also be caused by the data set we selected which is too small. We put the code here and everyone can check it out.
  
 ### txt
-The pictures we picked from BreakHis-400X dataset to train the network.
+The pictures we picked from BreakHis-400X dataset to train the network. And please remember to replace with your own data path.
 
 ### preprocess.py
 The script for image preprocessing.
+
+Note: In line 48-50, you need to replace the picture path with your own.
 
 ### crop_pictures.py
 The script for image crop. In the script,
 we crop the pictures in the way carried out in article 
 "Breast Cancer Histopathology Image Classification through Assembling Multiple Compact CNNs". 
 
+Note: In line 6, you need to replace the txt file path with your own.
+
 ### example
 Some example images processed by the above script。
 
 ### other folds
 The train script and prototxt file (random_32_32, random_64_64, sliding_32_32, sliding_64_64)
+
+Note: 
+
+In line 14,17,33,36 of train_SE_duibi.prototxt, please remember to replace with your own data path. 
+
+In line 16 of solver.prototxt, please remember to replace with your model path you want to save. 
+
+In line 6 of trainnet_google_fine.sh, please remember to replace with your model path you want to save. 
 
 ### Results
 
