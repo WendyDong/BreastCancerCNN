@@ -3,13 +3,13 @@ This is a toolbox that implements the testing of the approach described in our p
 
 Our experiment was carried out with caffe.
 
-###  network profile
+###  Network profile
 
  deploy_SE_bn4.prototxt is the network profile of hybrid model in our paper "Breast Cancer Histopathology Image Classification through Assembling Multiple Compact CNNs"
 
  deploy_64.prototxt and deploy_32.prototxt is the network profile of the method in "Breast Cancer Histopathological Image Classification using Convolutional Neural Networks"
 
-###  data prepare
+###  Dataset
 
  Filefold global and patch contains the image filelist. Download the BACH dataset first and modify the path in the txt file with your own path.
  
@@ -19,7 +19,7 @@ Our experiment was carried out with caffe.
 
  Note: please follow the data usage regulations. 
 
-###  pretrained models
+###  Pretrained models
 
  You can get the pretrained models here. [model](https://drive.google.com/file/d/14fjGKqL8CfJlrVdTdsal5fy3v5aV4CvI/view?usp=sharing)， [model-patch](https://drive.google.com/file/d/1zPzQTLSIGvBNwzUK0lO4xAIagnNxV-mM/view?usp=sharing).
 
@@ -32,7 +32,8 @@ Our experiment was carried out with caffe.
  We selected a small portion of the pictures on the BreakHis-400X dataset. We used them to reproduce the article "Breast Cancer Histopathology Image Classification through Assembling Multiple Compact CNNs". However, in this process, we faced some problems, the network can not fit the training set very well, so our accuracy of the dataset is very low, and can not achieve the effect in the article. Of course, this may also be caused by the data set we selected which is too small. We put the code here and everyone can check it out.
 
 ### Citation
-Please kindly cite this paper in your publications if it helps your research:
+Please kindly cite our papers in your publications if it helps your research.
+Journal paper (testing on BreaKHis and BACH):
 ```
 @article{zhu2019breast,
   title={Breast cancer histopathology image classification through assembling multiple compact CNNs},
@@ -43,5 +44,16 @@ Please kindly cite this paper in your publications if it helps your research:
   pages={198},
   year={2019},
   publisher={Springer}
+}
+```
+Our ICIAR work in BACH Challenge (testing on BACH Dataset):
+```
+@inproceedings{guo2018breast,
+  title={Breast cancer histology image classification based on deep neural networks},
+  author={Guo, Yao and Dong, Huihui and Song, Fangzhou and Zhu, Chuang and Liu, Jun},
+  booktitle={International Conference Image Analysis and Recognition},
+  pages={827--836},
+  year={2018},
+  organization={Springer}
 }
 ```
