@@ -46,7 +46,7 @@ Journal paper (testing on BreaKHis and BACH):
   publisher={Springer}
 }
 ```
-Our ICIAR work in BACH Challenge (testing on BACH Dataset):
+Our ICIAR paper in [BACH Challenge](https://iciar2018-challenge.grand-challenge.org/) (testing on BACH Dataset):
 ```
 @inproceedings{guo2018breast,
   title={Breast cancer histology image classification based on deep neural networks},
