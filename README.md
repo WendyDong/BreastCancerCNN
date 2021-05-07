@@ -32,7 +32,7 @@ Our experiment was carried out with caffe.
  We selected a small portion of the pictures on the BreakHis-400X dataset. We used them to reproduce the article "Breast Cancer Histopathology Image Classification through Assembling Multiple Compact CNNs". However, in this process, we faced some problems, the network can not fit the training set very well, so our accuracy of the dataset is very low, and can not achieve the effect in the article. Of course, this may also be caused by the data set we selected which is too small. We put the code here and everyone can check it out.
 
 ### Citation
-Please kindly cite our papers in your publications if it helps your research.
+Please kindly cite our paper in your publications if it helps your research.
 
 [BMC Journal paper](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0913-x) (testing on BreaKHis and BACH):
 ```
