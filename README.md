@@ -15,7 +15,7 @@ Our experiment was carried out with caffe.
  
  [BreaKHis](https://ieeexplore.ieee.org/abstract/document/7312934) and [BACH Challenge Dataset](https://iciar2018-challenge.grand-challenge.org/) are utilized in our test. 
 
- You can also download the dataset and data splitting files in our paper for research purposes from [Dataset-Downloading-Address](https://drive.google.com/drive/folders/1fjOYHnX7n-gmBXCChq9pZM8ByskOVe3_?usp=sharing).
+ You can also [download](https://drive.google.com/drive/folders/1fjOYHnX7n-gmBXCChq9pZM8ByskOVe3_?usp=sharing) the dataset and data splitting files in our paper for research purposes from [Dataset-Downloading-Address](https://drive.google.com/drive/folders/1fjOYHnX7n-gmBXCChq9pZM8ByskOVe3_?usp=sharing).
 
  Note: please follow the data usage regulations. 
 
