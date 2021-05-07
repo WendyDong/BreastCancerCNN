@@ -33,7 +33,8 @@ Our experiment was carried out with caffe.
 
 ### Citation
 Please kindly cite our papers in your publications if it helps your research.
-Journal paper (testing on BreaKHis and BACH):
+
+[BMC Journal paper](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0913-x) (testing on BreaKHis and BACH):
 ```
 @article{zhu2019breast,
   title={Breast cancer histopathology image classification through assembling multiple compact CNNs},
@@ -46,7 +47,7 @@ Journal paper (testing on BreaKHis and BACH):
   publisher={Springer}
 }
 ```
-Our ICIAR paper in [BACH Challenge](https://iciar2018-challenge.grand-challenge.org/) (testing on BACH Dataset):
+Our [ICIAR paper](https://drive.google.com/file/d/13k28tXx_qR8K6sQyMAmZnmGyvSipL8YJ/view) in [BACH Challenge](https://iciar2018-challenge.grand-challenge.org/) (testing on BACH Dataset):
 ```
 @inproceedings{guo2018breast,
   title={Breast cancer histology image classification based on deep neural networks},
