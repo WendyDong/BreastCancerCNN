@@ -12,7 +12,7 @@ Our experiment was carried out with caffe.
 
  deploy_64.prototxt and deploy_32.prototxt is the network profile of the method in "Breast Cancer Histopathological Image Classification using Convolutional Neural Networks"
 
-###  Dataset
+###  Dataset (Available)
 
  Filefold global and patch contains the image filelist. Download the BACH dataset first and modify the path in the txt file with your own path.
  
