@@ -4,7 +4,7 @@ This is a toolbox that implements the testing of the approach described in our p
 Our experiment was carried out with caffe.
 
 ### Overview
-![](figures/figurre-github.png)
+<img src="/figures/figurre-github.png" width="800px"/>
 
 ###  Network profile
 
