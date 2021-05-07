@@ -1,5 +1,5 @@
 # Breast cancer histopathology image classification through assembling multiple compact CNNs
-This is a toolbox that implements the testing of the approach described in our papers: Breast cancer histopathology image classification through assembling multiple compact CNNs.
+This is a toolbox that implements the testing of the approach described in our papers: [Breast cancer histopathology image classification through assembling multiple compact CNNs](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0913-x).
 
 Our experiment was carried out with caffe.
 
