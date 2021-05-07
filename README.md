@@ -66,6 +66,6 @@ Our [ICIAR paper](https://drive.google.com/file/d/13k28tXx_qR8K6sQyMAmZnmGyvSipL
 
 ## Authors
 Chuang Zhu, Huihui Dong, et.al.
-- email: czhu@bupt.edu.cn
+- email: czhu@bupt.edu.cn;donghuihui@bupt.edu.cn
 
 If you have any questions, you can contact us directly.
