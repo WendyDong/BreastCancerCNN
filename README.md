@@ -3,6 +3,9 @@ This is a toolbox that implements the testing of the approach described in our p
 
 Our experiment was carried out with caffe.
 
+### Overview
+![](figures/figurre-github.png)
+
 ###  Network profile
 
  deploy_SE_bn4.prototxt is the network profile of hybrid model in our paper "Breast Cancer Histopathology Image Classification through Assembling Multiple Compact CNNs"
